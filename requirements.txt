@@ -1,0 +1,7 @@
+torch
+sounddevice
+transformers
+pyttsx3
+fer
+opencv-python
+numpy
